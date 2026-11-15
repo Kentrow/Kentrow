@@ -16,10 +16,14 @@ I also write about homelab, networking, DevOps and self-hosting on [kentrow.fr](
 | [grafana-wificoverage-panel](https://github.com/Kentrow/grafana-wificoverage-panel) | Predicted Wi-Fi coverage on floor plans, right inside Grafana. | TypeScript |
 | [fakeverse](https://github.com/Kentrow/fakeverse) | Coherent fake data themed by works of fiction: people, addresses and organizations from The Lord of the Rings, Star Wars and more. Python package, Faker provider, CLI and HTTP API. | Python |
 
+## Maintaining
+
+- [nl6](https://github.com/labmonkeys-space/nl6) - co-maintainer. An open network load simulator that runs thousands of simulated devices on one host (SNMP, NetFlow, IPFIX, sFlow, Syslog, gNMI, NETCONF), part of [labmonkeys-space](https://github.com/labmonkeys-space)
+
 ## Contributing to
 
 - [oxynote](https://github.com/oxynote/oxynote) - an open source technical wiki connected to the systems it describes
-- [nl6](https://github.com/labmonkeys-space/nl6) - an open network load simulator (SNMP, NetFlow, IPFIX, sFlow, Syslog, gNMI, NETCONF)
+
 
 ## What I care about
 

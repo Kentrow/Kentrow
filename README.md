@@ -60,6 +60,6 @@ Coherent fake data themed by works of fiction: people, addresses and organizatio
 ## Toolbox
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,ts,py,rust,grafana,prometheus,ansible,terraform,docker,kubernetes,linux,gitlab&theme=dark">
-  <img alt="Go, TypeScript, Python, Rust, Grafana, Prometheus, Ansible, Terraform, Docker, Kubernetes, Linux, GitLab" src="https://skillicons.dev/icons?i=go,ts,py,rust,grafana,prometheus,ansible,terraform,docker,kubernetes,linux,gitlab&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cts%2Cpy%2Crust%2Cgrafana%2Cprometheus%2Cansible%2Cterraform%2Cdocker%2Ckubernetes%2Clinux%2Cgitlab&theme=dark">
+  <img alt="Go, TypeScript, Python, Grafana, Prometheus, Ansible, Terraform, Docker, Kubernetes, Linux, GitLab" src="https://skillicons.dev/icons?i=go%2Cts%2Cpy%2Crust%2Cgrafana%2Cprometheus%2Cansible%2Cterraform%2Cdocker%2Ckubernetes%2Clinux%2Cgitlab&theme=light">
 </picture>
